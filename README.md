@@ -1,6 +1,7 @@
 
 
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
+![alt text](https://github.com/prasanth132910/image/blob/main/logo.png)
+
 
 
 ## Introduction
@@ -11,7 +12,7 @@ Today is our first day using Node, so we will practice doing some basic operatio
 
 - Fork this repo
 - Clone this repo
-- Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
+
 
 ## Submission
 
